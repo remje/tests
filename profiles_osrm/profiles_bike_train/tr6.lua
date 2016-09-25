@@ -243,6 +243,8 @@ function way_function (way, result)
 
   result.forward_speed = 100
   result.backward_speed = 100
+  result.forward_mode = 1
+  result.backward_mode = 1
 
 
 end
